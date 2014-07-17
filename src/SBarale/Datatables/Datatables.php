@@ -1,6 +1,6 @@
 <?php
 
-namespace MagdKudama\Datatables;
+namespace SBarale\Datatables;
 
 /**
  * Handle server-side work for Datatables  JQuery plugin

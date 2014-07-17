@@ -1,6 +1,6 @@
 <?php
 
-namespace MagdKudama\Datatables;
+namespace SBarale\Datatables;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -20,7 +20,7 @@ class DatatablesServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->package('magd-kudama/datatables');
+        $this->package('sbarale/datatables');
     }
 
     /**
